@@ -100,6 +100,10 @@ mlflow ui
 
 El modelo SVM fue identificado como el mejor clasificador para este problema, gracias a su rendimiento superior en precisión, recall y F1-score. Este proyecto demuestra cómo utilizar técnicas de Machine Learning para resolver problemas de clasificación y cómo registrar experimentos para garantizar la trazabilidad y reproducibilidad.
 
+Artefactos:
+
+dbfs:/databricks/mlflow-tracking/2551573669228961/2584c9e481824fdb86e456d584417159/artifacts/svm_model
+
 📧 Contacto
 Si tienes preguntas o sugerencias, no dudes en contactarme:
 Email: ccoq2013@gmail.com
